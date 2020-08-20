@@ -1,0 +1,19 @@
+{
+  "name": "snowy-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bacon.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhansharma01/snowy-animation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidhansharma01/snowy-animation/issues"
+  },
+  "homepage": "https://github.com/vidhansharma01/snowy-animation#readme"
+}
